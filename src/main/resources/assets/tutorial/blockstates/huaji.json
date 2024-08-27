@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hardened=false": { "model": "tutorial:block/huaji" },
+    "hardened=true": { "model": "tutorial:block/huaji_hardened" }
+  }
+}

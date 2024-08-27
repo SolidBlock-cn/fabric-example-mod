@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tutorial:block/textpad" },
+    "facing=east":  { "model": "tutorial:block/textpad", "y":  90,"uvlock": true},
+    "facing=south": { "model": "tutorial:block/textpad", "y": 180,"uvlock": true },
+    "facing=west":  { "model": "tutorial:block/textpad", "y": 270,"uvlock": true }
+  }
+}

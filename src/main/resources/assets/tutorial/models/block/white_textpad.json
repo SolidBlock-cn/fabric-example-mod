@@ -1,0 +1,6 @@
+{
+  "parent": "tutorial:block/textpad",
+  "textures": {
+    "all": "block/white_concrete"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "tutorial:block/side",
+  "textures": {
+    "side": "block/granite"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "block.tutorial.color_block": "颜色方块",
+  "block.tutorial.custom_crop": "自定义作物",
+  "block.tutorial.demo_block": "演示方块",
+  "block.tutorial.four_sided_furnace": "四面熔炉",
+  "block.tutorial.huaji": "滑稽",
+  "block.tutorial.lava_block": "熔岩方块",
+  "block.tutorial.lava_slab": "熔岩台阶",
+  "block.tutorial.lava_stairs": "熔岩楼梯",
+  "block.tutorial.mix_block": "混方块",
+  "block.tutorial.text_block": "文字方块",
+  "block.tutorial.textpad": "文字板",
+  "block.tutorial.water_loggable_glass": "可含水玻璃",
+  "item.tutorial.custom_item": "自定义物品",
+  "item.tutorial.seeds": "自定义种子",
+  "itemGroup.tutorial.test_group": "测试物品组"
+}

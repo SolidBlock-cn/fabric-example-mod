@@ -1,0 +1,17 @@
+{
+  "block.tutorial.color_block": "Color Block",
+  "block.tutorial.custom_crop": "Custom Crop",
+  "block.tutorial.demo_block": "Demo Block",
+  "block.tutorial.four_sided_furnace": "Four Sided Furnace",
+  "block.tutorial.huaji": "Huaji",
+  "block.tutorial.lava_block": "Lava Block",
+  "block.tutorial.lava_slab": "Lava Slab",
+  "block.tutorial.lava_stairs": "Lava Stairs",
+  "block.tutorial.mix_block": "Mix Block",
+  "block.tutorial.text_block": "Text Block",
+  "block.tutorial.textpad": "Text Pad",
+  "block.tutorial.water_loggable_glass": "Water-loggable Glass",
+  "item.tutorial.custom_item": "Custom Item",
+  "item.tutorial.seeds": "Custom Seeds",
+  "itemGroup.tutorial.test_group": "Test Item Group"
+}

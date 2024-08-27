@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "block/lava_still",
+    "top": "block/lava_still",
+    "side": "block/lava_still"
+  }
+}

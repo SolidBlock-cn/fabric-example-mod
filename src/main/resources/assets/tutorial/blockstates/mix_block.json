@@ -1,0 +1,30 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {
+          "model": "block/white_concrete"
+        },
+        {
+          "model": "block/yellow_concrete",
+          "y": 90
+        },
+        {
+          "model": "block/lime_concrete",
+          "y": 180
+        },
+        {
+          "model": "block/light_gray_concrete",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "apply": [
+        {
+          "model": "block/glass"
+        }
+      ]
+    }
+  ]
+}

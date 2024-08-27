@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tutorial:block/polished_andesite_side_block" },
+    "facing=east":  { "model": "tutorial:block/polished_andesite_side_block", "y":  90,"uvlock": true},
+    "facing=south": { "model": "tutorial:block/polished_andesite_side_block", "y": 180,"uvlock": true },
+    "facing=west":  { "model": "tutorial:block/polished_andesite_side_block", "y": 270,"uvlock": true }
+  }
+}

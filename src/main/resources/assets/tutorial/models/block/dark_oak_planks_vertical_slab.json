@@ -1,0 +1,6 @@
+{
+  "parent": "tutorial:block/side",
+  "textures": {
+    "side": "block/dark_oak_planks"
+  }
+}
