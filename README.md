@@ -1,9 +1,5 @@
-# Fabric Example Mod
+This is the project on Fabric Example Mod Template, which I use to initially learn Fabric modding and test some features. This project is also used to test for Fabric Wiki.
 
-## Setup
+The project was imported initially on November 12, 2020, when Minecraft was still 1.16.3, but was not created a GitHub project and made public until August 27, 2024.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+During 2020 and 2021, I tried some interesting features, such as making a glass waterloggable, adding block entities that render text (which later became my Mishang Urban Construction mod), adding some vertical slabs (which later became my Extended Block Shapes mod), and trying blocks with multiple models. Some features, such as vertical labs and block entities rendering text, have been removed when upgrading versions due to version incompatibility. Unfortunately, removed code cannot be found because it was not created a Git project then.
